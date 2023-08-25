@@ -1,0 +1,98 @@
+body{
+    
+    background-color: antiquewhite;
+    padding-top: 10px; 
+}
+.headersection{
+    padding: 5px;
+}
+.headersection h3{
+ font-family: cursive;
+}
+input{
+    padding: 10px;
+    border-radius: 5px;
+}
+.dropbox{
+    padding: 4px;
+    border-radius: 5px;
+    width: 14%;
+}
+.dropbox1{
+    padding: 4px;
+    border-radius: 5px;
+    width: 18%;
+}
+.btn{
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 15px;
+    background-color: #3498db;
+    color: white;
+
+}
+.add{
+    width: 27%;
+}
+.image{
+    border: 1px solid black;
+    width: 28%;
+    border-radius: 20px;
+    padding: 10px;
+}
+.role{
+    border: 1px solid black;
+    width: 28%;
+    border-radius: 5px;
+    padding: 10px;
+}
+.backbtn{
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 15px;
+    background-color:#3498db;
+    color: white;
+    float: left;
+    margin: 10px;
+
+}
+.logbtn{
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 15px;
+    background-color: #3498db;
+    color: white;
+    float: right;
+    margin: 10px;
+
+}
+.profile{
+    background-color: white;
+    width: 30%;
+    padding: 20px;
+    float: left;
+}
+.group{
+    background-color: white;
+    width: 60%;
+    padding: 20px;
+    float: right;
+}
+.votebtn{
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 15px;
+    background-color: #3498db;
+    color: white;
+    float: left;   
+}
+.voted{
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 15px;
+    background-color:green;
+    color: white;
+}
+.mainpanel{
+    padding: 10px;
+}
